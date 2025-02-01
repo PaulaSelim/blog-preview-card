@@ -56,6 +56,18 @@ body {
   margin-bottom: 1rem;
 }
 
+.title a {
+  text-decoration: none;
+}
+
+.title a:visited {
+  color: black;
+}
+
+.title a:hover {
+  color: rgb(240, 199, 104);
+}
+
 .explain {
   /* text-align: justify; */
   color: rgba(0, 0, 0, 0.61);
